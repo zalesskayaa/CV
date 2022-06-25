@@ -1,4 +1,4 @@
-# [ CV ] (https://github.com/zalesskayaa/CV.git)
+# CV
 ---
 ## Julia Zalesskaya
 __Number:__ +375293942430
