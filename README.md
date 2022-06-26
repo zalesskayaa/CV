@@ -1,1 +1,1 @@
-# https://github-zalesskayaa.github.io
+# https://zalesskayaa.github.io/CV/
